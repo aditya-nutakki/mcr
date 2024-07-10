@@ -29,3 +29,7 @@ This is strictly done with claude-3.5-sonnet as it proved to be quite robust in 
   <li>Semantic Deduplication: There seems to be some indexed data which is vague and shallow. For example, the judgement for a handful of cases were along the lines of "the appellant's petition was rejected". This does not provide us enough information; so to get rid of near duplicates, a promising method seems to be using semantic deduplication. This would help us get a wider variety of data points which can help us train better embedding models and have stronger generalization</li>
   <li>Scaling this to the high courts: The scale that we have worked on is a relatively small dataset (~36k judgements). There are about 13M judgements in the highcourt. It would be interesting to see how this would scale out !</li>
 </ul>
+
+
+## Quick Demo
+![](https://github.com/aditya-nutakki/claude-search/blob/main/demo.gif)
