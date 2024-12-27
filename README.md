@@ -1,4 +1,4 @@
-# Find legal precedents with the help of claude
+# Search for legal precedents with the help of LLM's and Embedding Models
 
 ## Overview:
 Access to legal precedents is not easy as they are either hidden behind an expensive pay wall or they are scattered across the internet (due to lack of organization). We are currently working with an NGO called OpenNyAI (Nyai - the hindi word for "justice") in India to solve this problem. 
