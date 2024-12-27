@@ -15,7 +15,7 @@ caselaw_search_claude = {
 
 bge_finetuned_bundle = {
     "id": "first-sbert-model-123",
-    "model": "/mnt/d/work/projects/agents/playbooks/models/matryoshka_models_raw/checkpoint-130",
+    "model": "./models/matryoshka_models_raw/checkpoint-130",
     "device": "cuda",
     "truncate_dim": 512
 }
@@ -23,7 +23,7 @@ bge_finetuned_bundle = {
 pinecone_all_sc_bundle = {
     "id": "my-unique-pineconevdb-123",
     "index_name": "all-sc-hybrid",
-    "host_url": "https://all-sc-hybrid-ss7yj2b.svc.aped-4627-b74a.pinecone.io",
+    "host_url": "",
     "metric": "dotproduct",
     "index_type": "hybrid", # can be dense or hybrid
     "sparse_model_path": "./all_sc.json",
