@@ -1,4 +1,4 @@
-# Search for legal precedents with the help of LLM's and Embedding Models
+# Search for legal precedents with the help of LLM's and Embedding Models using MCR (Multi-Categorical Retrieval)
 
 ## Overview:
 Access to legal precedents is not easy as they are either hidden behind an expensive paywall or they are scattered across the internet (due to lack of organization). We are currently working with NGO's in India to solve this problem. 
